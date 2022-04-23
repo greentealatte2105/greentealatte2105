@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning about coding, my major is Computer Science
 - 💞️ I’m creating this coding blog in order to post and update everything I learned from my University class
 - 📫 How to reach me:
-Facebook: https://www.facebook.com/greentealatte2105/
-Instagram: https://www.instagram.com/h.phuo8c/
+  - Facebook: https://www.facebook.com/greentealatte2105/
+  - Instagram: https://www.instagram.com/h.phuo8c/
 
